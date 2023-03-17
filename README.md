@@ -19,4 +19,6 @@ Silahkan gunakan sebagai referensi pembelajaran kalian.
 
 - M.Iqbal Aldeena (201401077) - FASILKOM-TI USU Semester Genap Tahun Ajaran 2022/2023
 
-
+Courtesy of : 
+- Geeksforgeeks
+- Programviz
