@@ -8,7 +8,6 @@ Algoritma Sorting dalam file  :
 4.	Shell Sort
 5.	Merge Sort
 6.	Quick Sort
-7.	Heap Sort
 
 Algoritma Searching dalam file  :
 1.	Sequential/Linear Search
